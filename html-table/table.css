@@ -1,0 +1,15 @@
+body {
+    background: gray;
+}
+#names {
+    border: red solid 1px;
+    background: white;
+
+}
+
+td {
+    border-top: solid 1px;
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+    border-left: solid 1px;
+}
