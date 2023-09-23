@@ -1,0 +1,8 @@
+/* 
+{ = Open Curly Bracket 
+} = Close Curly Bracket */
+
+/* The line where starting or ending curly bracket is used we should not write any code after it */
+.blue { 
+    background: blue;
+}
